@@ -30,10 +30,6 @@ const getNickname = async (nickname: string) => {
     }
 }
 
-const wait = (ms: number) => {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-
 const randomCharacter = (length: number, allowNumber: boolean) => {
     const characters = !allowNumber ? 'abcdefghijklmnopqrstuvwxyz_' : 'abcdefghijklmnopqrstuvwxyz0123456789_';
     let result = '';
