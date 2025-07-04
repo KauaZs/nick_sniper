@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KauaZs/nick_sniper/main/assets/nicksniper.png" alt="Nick Sniper Banner"/>
+  <img src="https://raw.githubusercontent.com/KauaZs/nick_sniper/main/assets/nicksniper-banner.png" alt="Nick Sniper Banner"/>
 </p>
 
 # NSNIPER
