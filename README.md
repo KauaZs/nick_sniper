@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link/nicksniper-banner.png" alt="Nick Sniper Banner"/>
+</p>
+
 # NSNIPER
 
 Nick Sniper (nsniper) is a CLI tool for generating and checking available Minecraft nicknames quickly and easily.
@@ -50,11 +55,3 @@ The tool will prompt you for:
 - How many nicknames to generate
 
 You can stop the process at any time with `Ctrl+C`.
-
-## License
-
-MIT
-
----
-Developed by [KauaZs](https://github.com/KauaZs)
-
