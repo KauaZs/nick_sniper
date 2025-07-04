@@ -1,0 +1,24 @@
+{
+  "name": "nsniper",
+  "version": "1.0.0",
+  "description": "CLI tool for generating and checking available Minecraft nicknames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src/index.ts",
+    "build": "tsc --project tsconfig.json"
+  },
+  "bin": {
+    "nsniper": "dist/index.js"
+  },
+  "keywords": [],
+  "author": "KauaZs",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "tsx": "^4.20.3"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
